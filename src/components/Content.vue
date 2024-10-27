@@ -17,10 +17,15 @@ function addTodo(){
 function deleteTodo(todo){
     todos.value = todos.value.filter(t => t !== todo)
 }
+
+
+
 </script>
 
 
 <template  >
+
+    
 
     <!-- iklan -->
     <div class="bg-white rounded-2xl py-7 mt-10 px-5 mx-12 grid grid-cols-3 gap-3" >
@@ -29,7 +34,7 @@ function deleteTodo(todo){
         <div class=" col-span-2 h-full mx-3 mb-10 pl-4 pt-4  ">
             
 
-            <img src=""
+            <img src="file:///C:/Users/Siti%20Aisha/OneDrive/Art/tiktok%20pfp2.jpg"
             class="h-full w-full object-cover  "/>
         </div>
 
@@ -39,19 +44,19 @@ function deleteTodo(todo){
 
             <!-- intro about website -->
             <div >
-                 <div class="flex h-13 w-82 mx-3 my-3 bg-orange-200 transition-all duration-300 ease-in-out transform hover:scale-110">
+                 <div class="flex h-13 w-82 mx-3 my-3 bg-red-100 transition-all duration-300 ease-in-out transform hover:scale-110">
 
-                    <div class="flex-none w-48 h-13">
+                    <!-- <div class="flex-none w-48 h-13">
                     <RouterLink to = "/about" ><button >
                     <img src="" class=" object-cover object-center rounded-md my-1 mx-1
                     transition-all duration-300 ease-in-out transform hover:scale-105" />
                     </button>  </RouterLink>
-                </div>
+                </div> -->
 
                     <div class="ml-4 mr-2 mt-2">
-                        <p>
-                          Students who work as dropship agents or own their own businesses to promote products.
-                            You can easily showcase your business objectives using this platform.
+                        <p class = "text-center">
+                          Welcome to my sticker Shop! I usually make art from time to time so feel free
+                          to browse some and you may also buy them if you like!
                          </p>
                     </div>
   
@@ -60,19 +65,19 @@ function deleteTodo(todo){
         </div>
 
         <div>
-            <div  class="flex h-13 w-82 mx-3 my-3 bg-lime-200 transition-all duration-300 ease-in-out transform hover:scale-110">
+            <div  class="flex h-13 w-82 mx-3 my-3 bg-red-200 transition-all duration-300 ease-in-out transform hover:scale-110">
 
-                <div class="flex-none w-48 h-13">
+                <!-- <div class="flex-none w-48 h-13">
                     <RouterLink to ="/other" > <button>
                     <img src="" class="  object-cover object-center rounded-md my-1 mx-1
                     transition-all duration-300 ease-in-out transform hover:scale-105" />
                     </button></RouterLink>
-                </div>
+                </div> -->
 
                     
                 <div class="ml-4 mr-2 mt-2">
                     <p>
-                        This platform is open to all students who wish to display and sell their unused clothes.
+                        If you want to support me further, do follow my socials and check out my webtoon!
                         
                     </p>
 
@@ -84,18 +89,18 @@ function deleteTodo(todo){
         <div>
 
            
-            <div class="flex h-13 w-82 mx-3 my-3  bg-blue-200 transition-all duration-300 ease-in-out transform hover:scale-110">
-                <div class=" flex-none w-48 h-13 ">
+            <div class="flex h-13 w-82 mx-3 my-3  bg-red-300 transition-all duration-300 ease-in-out transform hover:scale-110">
+                <!-- <div class=" flex-none w-48 h-13 ">
                      <RouterLink to ="/letgopage" ><button >
                     <img src="" class="  object-cover object-center rounded-md my-1 mx-1
                     transition-all duration-300 ease-in-out transform hover:scale-105" />
                    </button> </RouterLink>
-                </div>
+                </div> -->
             
 
                 <div class="ml-4 mr-2 mt-2">
                     <p>
-                     Providing service to students makes it easier for them to help one another.
+                     If you want to share your reviews please fill out this form:
                      </p>
 
                 </div>

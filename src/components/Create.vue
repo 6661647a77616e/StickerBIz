@@ -28,7 +28,7 @@ async function createPost() {
   <div
     class="bg-white rounded-2xl p-10 mx-12 flex items-center justify-center flex-col object-center gap-4"
   >
-    <div class="bg-lime-200 p-10 rounded-3xl">
+    <div class="bg-red-00 p-10 rounded-3xl">
       <div class="text-4xl mb-10">PROMOTE YOUR PRODUCT NOW!</div>
 
       <div class="mb-3">

@@ -13,16 +13,16 @@ import Sample from './Sample.vue';
     </RouterLink></div>
 
     
-    <div><RouterLink to ="/about"> <button class="transition ease-in-out  rounded-xl bg-white hover:bg-lime-100  text-1xl px-2 py-2 ml-3 my-1 font-medium">Small Business</button></RouterLink>
-    </div>
+    <!-- <div><RouterLink to ="/about"> <button class="transition ease-in-out  rounded-xl bg-white hover:bg-lime-100  text-1xl px-2 py-2 ml-3 my-1 font-medium">Small Business</button></RouterLink>
+    </div> -->
     
     <div>
-     <RouterLink to ="/other" ><button class="transition ease-in-out  rounded-xl bg-white hover:bg-lime-100  text-1xl px-2 py-2 ml-3 my-1 font-medium">Service</button> </RouterLink>
+     <RouterLink to ="/other" ><button class="transition ease-in-out  rounded-xl bg-white hover:bg-lime-100  text-1xl px-2 py-2 ml-3 my-1 font-medium">Stickers</button> </RouterLink>
     </div>
 
-    <div>
+    <!-- <div>
      <RouterLink to ="/letgopage" ><button class="transition ease-in-out  rounded-xl bg-white hover:bg-lime-100  text-1xl px-2 py-2 ml-3 my-1 font-medium">Stuff To Let Go </button> </RouterLink>
-    </div>
+    </div> -->
 
     </div>
     
