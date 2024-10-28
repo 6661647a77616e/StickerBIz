@@ -104,52 +104,53 @@ const items = [
   {
     title: "Finn",
     description: "Adventure Time",
-    image: "src\\assets\\img\\Stickerz\\Finn.jpg",
+    image: "/assets/img/Stickerz/Finn.jpg",
     details: "Finn the Human is a brave adventurer and hero of Ooo!"
   },
   {
     title: "Jake",
-    description: "Adventure time",
-    image: "src\\assets\\img\\Stickerz\\Jake.jpg",
+    description: "Adventure Time",
+    image: "/assets/img/Stickerz/Jake.jpg",
     details: "Jake the Dog can stretch into any shape and is Finn's best friend and adoptive brother."
   },
   {
     title: "Peppermint Butler",
-    description: "Adventure time",
-    image: "src\\assets\\img\\Stickerz\\PeppermintButler.jpg",
+    description: "Adventure Time",
+    image: "/assets/img/Stickerz/PeppermintButler.jpg",
     details: "Princess Bubblegum's mysterious butler with dark magical powers..."
   },
   {
     title: "Lemongrab",
-    description: "Adventure time",
-    image: "src\\assets\\img\\Stickerz\\Lemongrab.jpg",
+    description: "Adventure Time",
+    image: "/assets/img/Stickerz/Lemongrab.jpg",
     details: "UNACCEPTABLE!!! (But actually pretty interesting character)"
   },
   {
     title: "BMO",
     description: "Adventure Time",
-    image: "src\\assets\\img\\Stickerz\\BMO.jpg",
+    image: "/assets/img/Stickerz/BMO.jpg",
     details: "A living video game console and one of Finn and Jake's best friends!"
   },
   {
     title: "Princess Bubblegum",
     description: "Adventure Time",
-    image: "src\\assets\\img\\Stickerz\\PB.jpg",
+    image: "/assets/img/Stickerz/PB.jpg",
     details: "The scientific ruler of the Candy Kingdom and a brilliant inventor."
   },
   {
     title: "Marceline",
     description: "Adventure Time",
-    image: "src\\assets\\img\\Stickerz\\Marceline.jpg",
+    image: "/assets/img/Stickerz/Marceline.jpg",
     details: "The Vampire Queen, over 1000 years old and an amazing musician!"
   },
   {
     title: "Lady Rainicorn",
     description: "Adventure Time",
-    image: "src\\assets\\img\\Stickerz\\LadyRainicorn.jpg",
+    image: "/assets/img/Stickerz/LadyRainicorn.jpg",
     details: "Jake's girlfriend who can fly and phase through matter. Speaks Korean!"
   }
 ];
+
 
 const openModal = (item) => {
   selectedItem.value = item;
