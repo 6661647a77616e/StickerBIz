@@ -34,8 +34,8 @@ function deleteTodo(todo){
         <div class=" col-span-2 h-full mx-3 mb-10 pl-4 pt-4  ">
             
 
-            <img src="file:///C:/Users/Siti%20Aisha/OneDrive/Art/tiktok%20pfp2.jpg"
-            class="h-full w-full object-cover  "/>
+            <!-- <img src="file:///C:/Users/Siti%20Aisha/OneDrive/Art/tiktok%20pfp2.jpg"
+            class="h-full w-full object-cover  "/> -->
         </div>
 
   
